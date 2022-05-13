@@ -1,0 +1,42 @@
+/****** TAG SELECTORS *******/
+
+body{
+  background-color: #E8F9FD;
+}
+h1 {
+  color: #FF0000;
+  font-size: 200px;
+}
+h3 {
+  color: #66BFBF;
+}
+hr {
+  border-color: gray;
+  border-style: dotted none none;
+  border-width: 1em;
+  background-color: inherit;
+  height: 5px;
+  width: 150px;
+}
+img:hover {
+  background-color: gold;
+}
+
+/****** CLASS SELECTORS *******/
+.chicharron {
+  background-color: green;
+}
+.chicken {
+  background-color: yellow;
+}
+.circular {
+  border-radius: 100%;
+}
+/****** ID SELECTORS *******/
+#heading {
+  color:blue;
+}
+
+#big {
+  font-size: 100px;
+}
